@@ -2,6 +2,9 @@ name: peekaboo
 description: A developer utility toolkit for Flutter apps.
 version: 0.0.1
 
+repository: https://github.com/adityaarya99/peekaboo
+homepage: https://github.com/adityaarya99/peekaboo
+
 environment:
   sdk: ">=3.3.0 <4.0.0"
 
@@ -21,3 +24,10 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+# Optional, but nice:
+topics:
+  - developer-tools
+  - debug
+
+license: MIT

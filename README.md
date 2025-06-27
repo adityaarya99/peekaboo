@@ -115,3 +115,8 @@ For internal development, use the `simulator/` app (not published). It allows:
 
 --- 
 
+![Pub Version](https://img.shields.io/pub/v/peekaboo.svg)
+![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_USERNAME/peekaboo)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
